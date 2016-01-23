@@ -68,6 +68,7 @@ theme: landscape
 # Deployment
 ## Docs: http://hexo.io/docs/deployment.html
 deploy:
-  type: github
-  repository: git@github.com:OrangeManLi/OrangeManLi.github.io.git
+  type: git
+  repository: https://github.com/OrangeManLi/OrangeManLi.github.io.git
   branch: master 
+  messageL: addnew
