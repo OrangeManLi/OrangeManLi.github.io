@@ -13,7 +13,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
-  "homepage": "http://orangemanli.github.io/",
+  "homepage": "http://orangemanli.github.io/demo",
   "eslintConfig": {
     "extends": "react-app"
   },
